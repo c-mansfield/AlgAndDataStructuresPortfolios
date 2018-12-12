@@ -1,0 +1,10 @@
+H:\Alg and data\Projects\Lab6_Library\Lab6_Library\bin\Debug\Lab6_Library.exe.config
+H:\Alg and data\Projects\Lab6_Library\Lab6_Library\bin\Debug\Lab6_Library.exe
+H:\Alg and data\Projects\Lab6_Library\Lab6_Library\bin\Debug\Lab6_Library.pdb
+H:\Alg and data\Projects\Lab6_Library\Lab6_Library\obj\Debug\Lab6_Library.csprojAssemblyReference.cache
+H:\Alg and data\Projects\Lab6_Library\Lab6_Library\obj\Debug\Lab6_Library.Form1.resources
+H:\Alg and data\Projects\Lab6_Library\Lab6_Library\obj\Debug\Lab6_Library.Properties.Resources.resources
+H:\Alg and data\Projects\Lab6_Library\Lab6_Library\obj\Debug\Lab6_Library.csproj.GenerateResource.cache
+H:\Alg and data\Projects\Lab6_Library\Lab6_Library\obj\Debug\Lab6_Library.csproj.CoreCompileInputs.cache
+H:\Alg and data\Projects\Lab6_Library\Lab6_Library\obj\Debug\Lab6_Library.exe
+H:\Alg and data\Projects\Lab6_Library\Lab6_Library\obj\Debug\Lab6_Library.pdb

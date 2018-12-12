@@ -1,0 +1,7 @@
+H:\Alg and data\Projects\Lab8_BinaryTree\Lab8_BinaryTree\bin\Debug\Lab8_BinaryTree.exe.config
+H:\Alg and data\Projects\Lab8_BinaryTree\Lab8_BinaryTree\bin\Debug\Lab8_BinaryTree.exe
+H:\Alg and data\Projects\Lab8_BinaryTree\Lab8_BinaryTree\bin\Debug\Lab8_BinaryTree.pdb
+H:\Alg and data\Projects\Lab8_BinaryTree\Lab8_BinaryTree\obj\Debug\Lab8_BinaryTree.csprojAssemblyReference.cache
+H:\Alg and data\Projects\Lab8_BinaryTree\Lab8_BinaryTree\obj\Debug\Lab8_BinaryTree.csproj.CoreCompileInputs.cache
+H:\Alg and data\Projects\Lab8_BinaryTree\Lab8_BinaryTree\obj\Debug\Lab8_BinaryTree.exe
+H:\Alg and data\Projects\Lab8_BinaryTree\Lab8_BinaryTree\obj\Debug\Lab8_BinaryTree.pdb
